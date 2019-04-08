@@ -1,5 +1,5 @@
 # Android-Game
-An Android game similar to mario  which will be integrated with pedometer.
+An Android game similar to mario  which is integrated with pedometer.
 
 This app is made using MIT App Inventor.This app can be easily downloaded on any Android phone by downloading the .apk file provided .
 While downloading, enable permissions from Play protect, else the app will not be downloaded.
